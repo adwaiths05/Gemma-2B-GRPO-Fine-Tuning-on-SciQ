@@ -2,7 +2,6 @@
 
 This repository contains code to fine-tune Google’s Gemma-2B model on the SciQ dataset using GRPO (Generative Reward Policy Optimization) for reasoning tasks.
 
-> **⚠️ Important:**  
 
 ---
 
